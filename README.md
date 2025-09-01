@@ -37,6 +37,7 @@ Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 
 ## PROGRAM:
 
+```
 <!doctype html>
 <html>
 <head> <title>my first page</title>
@@ -52,6 +53,7 @@ Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 </table>
 </Body>
 </html>
+````
 
 ## OUTPUT:
 ![alt text](<Screenshot 2025-09-01 141101.png>)
